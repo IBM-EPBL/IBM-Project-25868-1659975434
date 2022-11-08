@@ -5,7 +5,8 @@ Skill / Job Recommender Application
 | Domain        |  Cloud Application Development |
 | Team ID       |  PNT2022TMID53821              |
 # Team Members 
-|  Team Leader    |	 ARUMUGAPRIYA M     |
+| Team Leader    |	 ARUMUGAPRIYA M     |
+|----------------|----------------------|
 |  Team Member 1  |  JAEL JESSICA A     |
 |  Team Member 2	|  JANISHA S          |
 |  Team Member 3	|  BERTENA R          |
