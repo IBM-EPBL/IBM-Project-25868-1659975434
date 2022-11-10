@@ -19,25 +19,25 @@ To develop an end-to-end web application capable of displaying the current job o
 # SKILLS REQUIRED
 HTML
 ------------------------
-CSS
+CSS	
 ------------------------
-Java Script
+JAVA SCRIPT
 ------------------------
-IBM Cloud Object Storage
+IBM CLOUD OBJECT STORAGE
 ------------------------
-Python-Flask 
+PYTHON-FLASK 
 ------------------------
-Kubernetes 
+KUBERNETES 
 ------------------------
-Docker
+DOCKER
 ------------------------
 IBM DB2 
 ------------------------
-IBM Container Registry
+IBM CONTAINER REGISTRY
 ------------------------
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-<p align="center">
+
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,html,css,github,py,flask,js" />
   </a>
 </p>
